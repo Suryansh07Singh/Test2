@@ -10,5 +10,4 @@ def calculate_tax(*salaries):
         print("Error occurred:", e)
 
 total = calculate_tax(50000, 60000, 45000, 70000)
-if total is not None:
-    print("Total Tax:", total)
+print("Total Tax:", total)
