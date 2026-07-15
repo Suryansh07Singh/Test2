@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Laptop",
+        "price": 1320.0,
+        "category": "Electronics",
+        "quantity": 10
+    },
+    {
+        "name": "Phone",
+        "price": 880.0000000000001,
+        "category": "Electronics",
+        "quantity": 3
+    },
+    {
+        "name": "Shoes",
+        "price": 66.0,
+        "category": "Fashion",
+        "quantity": 15
+    },
+    {
+        "name": "Watch",
+        "price": 1650.0000000000002,
+        "category": "Fashion",
+        "quantity": 2
+    },
+    {
+        "name": "Fridge",
+        "price": 2200.0,
+        "category": "Appliances",
+        "quantity": 5
+    },
+    {
+        "name": "Book",
+        "price": 22.0,
+        "category": "Stationery",
+        "quantity": 0
+    }
+]
